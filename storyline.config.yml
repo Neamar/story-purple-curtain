@@ -9,23 +9,28 @@ resources:
         default: "Inconnu"
     "constitution":
         description: "L'état physique de votre personnage"
-        format: "%i"
+        format: "%s"
         display_name: "Const"
         default: 0
     "charisma":
         description: "La présence de votre personnage"
-        format: "%i"
+        format: "%s"
         display_name: "Char"
         default: 0
     "hacking":
         description: "La capacité de votre personnage en hacking"
-        format: "%i"
+        format: "%s"
         display_name: "Hack"
         default: 0
     "magic":
         description: "La capacité de votre personnage en magie"
-        format: "%i"
+        format: "%s"
         display_name: "Mag"
+        default: 0
+    "nuyens":
+        description: "L'argent de votre personnage"
+        format: "%s¥"
+        display_name: "Arg"
         default: 0
 ---
 
