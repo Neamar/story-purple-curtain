@@ -4,7 +4,7 @@
   "description": "A storyline adventure",
   "main": "./story.json",
   "scripts": {
-    "compile": "storyline ."
+    "compile": "storylines ."
   },
   "repository": {
     "type": "git",
