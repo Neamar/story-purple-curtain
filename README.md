@@ -1,5 +1,7 @@
 # story-purple-curtain
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Neamar/story-purple-curtain.svg)](https://greenkeeper.io/)
+
 Une histoire pour [Storylines](https://github.com/Neamar/storylines/).
 
 ---
