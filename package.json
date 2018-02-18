@@ -19,6 +19,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "storylines": "^1.0.0"
+    "storylines": "^1.1.0"
   }
 }
