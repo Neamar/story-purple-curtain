@@ -1,7 +1,7 @@
 ---
 triggers:
     hard:
-        condition: storylines.sumbags.back_out == true
+        condition: storylines.scumbags.back_out == true
         weight: 4
 
 actions:

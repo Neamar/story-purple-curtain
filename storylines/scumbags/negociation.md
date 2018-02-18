@@ -10,7 +10,7 @@ actions:
             - storylines.scumbags.spiled = true
     "Quitter les lieux":
         operations:
-            - storylines.sumbags.back_out = true
+            - storylines.scumbags.back_out = true
 ---
 
 - "J'ai des informations intéressantes sur une de vos employées. Je pense qu'elles valent bien 300 nuyens."
